@@ -129,7 +129,7 @@ class VentasRPA:
         )
 
 
-        url_dashboard = 'https://demo.twilio.com/owl.png'
+        url_dashboard = 'https://github.com/stghattas/proyectoRPA_IA-URU/blob/main/dashboard_ventas.png?raw=true'
 
         try:
             client = Client(account_sid, auth_token)
