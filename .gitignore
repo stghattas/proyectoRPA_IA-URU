@@ -1,0 +1,18 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+
+# Archivos generados por el bot (Evita llenar el repo de basuras de testing)
+dashboard_ventas.png
+
+# Archivos de datos originales (Opcional: Si el Excel es muy pesado o privado, descomenta la siguiente línea)
+# *.xlsx
+# *.csv
